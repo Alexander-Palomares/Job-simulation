@@ -33,6 +33,9 @@
   - Clear, concise presentation format
   - Defined action points for identifying phishing emails
 
+Link to my presentation:
+[Phishing Awareness Training – Google Slides](https://docs.google.com/presentation/d/1QMZeEqd_kkFe7HUzK5g580frwySMC9kAtItCXPVspPA/edit?usp=sharing)
+
 - **Security Training Strategy:**  
   Identified business areas with weak awareness and developed tailored training recommendations to improve cybersecurity posture.
 
